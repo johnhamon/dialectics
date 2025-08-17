@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14-15. Неоплатоники/14. Плотин/Что читать.md",
+                "file": "14-15. Неоплатоники/14. Плотин/Что изучать.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Что читать"
-            }
-          },
-          {
-            "id": "8bcb4ab9c6bcca69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Список источников.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Список источников"
+              "title": "Что изучать"
             }
           }
         ]
@@ -188,15 +174,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "56941a0659c4c2b7",
+        "id": "cd845a56098175bb",
         "type": "window",
         "children": [
           {
-            "id": "5ac9edb7f9627951",
+            "id": "f45697dad4917298",
             "type": "tabs",
             "children": [
               {
-                "id": "1798cfca09a3dba2",
+                "id": "5ef5117b41db647c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -213,40 +199,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 2705,
-        "y": 0,
-        "width": 709,
-        "height": 1019,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "fdf4c11ecee17e3a",
-        "type": "window",
-        "children": [
-          {
-            "id": "62742c4341e1baac",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5a45993bd5835881",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "14-15. Неоплатоники/14. Плотин/Вопросы.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Вопросы"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
+        "x": 1707,
         "y": 0,
         "width": 854,
         "height": 1019,
@@ -257,10 +210,11 @@
   },
   "active": "aa1f790a54edd79d",
   "lastOpenFiles": [
-    "14-15. Неоплатоники/14. Плотин/Цитаты.md",
-    "14-15. Неоплатоники/14. Плотин/Что читать.md",
-    "Список источников.md",
     "14-15. Неоплатоники/14. Плотин/Вопросы.md",
+    "14-15. Неоплатоники/14. Плотин/Цитаты.md",
+    "14-15. Неоплатоники/14. Плотин/Что изучать.md",
+    "14-15. Неоплатоники/14. Плотин/Заметки.md",
+    "Список источников.md",
     "14-15. Неоплатоники/15. Прокл/Что читать.md",
     "14-15. Неоплатоники/15. Прокл/Лекция Муравьева о Прокле.md",
     "14-15. Неоплатоники/15. Прокл/Вопросы.md"
