@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "006b2f80b373211f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b9ea6de4ab50415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa1f790a54edd79d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14-15. Неоплатоники/14. Плотин/Что читать.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Что читать"
+            }
+          },
+          {
+            "id": "8bcb4ab9c6bcca69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Список источников.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Список источников"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c83935a6485e3a64",
+    "type": "split",
+    "children": [
+      {
+        "id": "296ba5841f902606",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a19924abca40fe2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d3cd6ecf323143e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "605f2979107387ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bdfd1eeeb2e1984f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7122145d35f70c9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06447cc720d541a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "14-15. Неоплатоники/14. Плотин/Что читать.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Что читать"
+            }
+          },
+          {
+            "id": "da1d5ab0259207ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "14-15. Неоплатоники/14. Плотин/Что читать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Что читать"
+            }
+          },
+          {
+            "id": "e8599f0965b7996e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b72530e2efe504a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "14-15. Неоплатоники/14. Плотин/Что читать.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Что читать"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "floating": {
+    "id": "4a1cc468cf39aa62",
+    "type": "floating",
+    "children": [
+      {
+        "id": "56941a0659c4c2b7",
+        "type": "window",
+        "children": [
+          {
+            "id": "5ac9edb7f9627951",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1798cfca09a3dba2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "14-15. Неоплатоники/14. Плотин/Цитаты.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Цитаты"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2705,
+        "y": 0,
+        "width": 709,
+        "height": 1019,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "fdf4c11ecee17e3a",
+        "type": "window",
+        "children": [
+          {
+            "id": "62742c4341e1baac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5a45993bd5835881",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "14-15. Неоплатоники/14. Плотин/Вопросы.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Вопросы"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 854,
+        "height": 1019,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "aa1f790a54edd79d",
+  "lastOpenFiles": [
+    "14-15. Неоплатоники/14. Плотин/Цитаты.md",
+    "14-15. Неоплатоники/14. Плотин/Что читать.md",
+    "14-15. Неоплатоники/14. Плотин/Вопросы.md",
+    "Список источников.md",
+    "14-15. Неоплатоники/15. Прокл/Что читать.md",
+    "14-15. Неоплатоники/15. Прокл/Лекция Муравьева о Прокле.md",
+    "14-15. Неоплатоники/15. Прокл/Вопросы.md"
+  ]
+}
