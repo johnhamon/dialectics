@@ -30,4 +30,6 @@ replay_pid*
 .DS_Store
 
 #obsidian
-.obsidian
+*.json
+*.js
+*.css
