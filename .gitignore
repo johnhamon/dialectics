@@ -28,3 +28,6 @@ replay_pid*
 
 # macos metadata 
 .DS_Store
+
+#obsidian
+.obsidian
